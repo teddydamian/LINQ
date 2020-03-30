@@ -1,0 +1,14 @@
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/LINQ.deps.json
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/LINQ.runtimeconfig.json
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/LINQ.runtimeconfig.dev.json
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/LINQ.dll
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/LINQ.pdb
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.csprojAssemblyReference.cache
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.csproj.CoreCompileInputs.cache
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.AssemblyInfoInputs.cache
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.AssemblyInfo.cs
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.csproj.CopyComplete
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.dll
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.pdb
+/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/obj/Debug/netcoreapp3.1/LINQ.genruntimeconfig.cache
