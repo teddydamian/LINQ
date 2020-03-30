@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{799ECBEA-DE90-4D78-BFD5-C887E2A8AF6A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/Program.cs">
     <Files>
-      <File FileName="LINQ/Program.cs" Line="16" Column="1" />
-      <File FileName="LINQ/Classes/City.cs" Line="1" Column="1" />
+      <File FileName="LINQ/Program.cs" Line="19" Column="1" />
+      <File FileName="LINQ/Classes/Features.cs" />
+      <File FileName="LINQ/Classes/Properties.cs" />
+      <File FileName="LINQ/Classes/Geometry.cs" />
+      <File FileName="LINQ/Classes/RootObject.cs" Line="13" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
