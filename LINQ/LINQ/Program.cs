@@ -12,7 +12,7 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
-            string path = @"/Users/teddydamian/Desktop/codefellow/code401ASP.NET/LINQ/LINQ/LINQ/assets/data.JSON";
+            string path = @"../../../data.JSON";
 
             JObject jObject = CreateJObject(path);
 
